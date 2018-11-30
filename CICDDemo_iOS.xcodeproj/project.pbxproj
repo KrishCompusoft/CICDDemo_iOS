@@ -13,6 +13,7 @@
 		953E672421B1035300C59CBF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 953E672221B1035300C59CBF /* Main.storyboard */; };
 		953E672621B1036400C59CBF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 953E672521B1036400C59CBF /* Assets.xcassets */; };
 		953E672921B1036400C59CBF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 953E672721B1036400C59CBF /* LaunchScreen.storyboard */; };
+		953E673121B1136B00C59CBF /* exportOptions.plist in Resources */ = {isa = PBXBuildFile; fileRef = 953E673021B1136B00C59CBF /* exportOptions.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		953E672521B1036400C59CBF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		953E672821B1036400C59CBF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		953E672A21B1036400C59CBF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		953E673021B1136B00C59CBF /* exportOptions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = exportOptions.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				953E672521B1036400C59CBF /* Assets.xcassets */,
 				953E672721B1036400C59CBF /* LaunchScreen.storyboard */,
 				953E672A21B1036400C59CBF /* Info.plist */,
+				953E673021B1136B00C59CBF /* exportOptions.plist */,
 			);
 			path = CICDDemo_iOS;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 				953E672921B1036400C59CBF /* LaunchScreen.storyboard in Resources */,
 				953E672621B1036400C59CBF /* Assets.xcassets in Resources */,
 				953E672421B1035300C59CBF /* Main.storyboard in Resources */,
+				953E673121B1136B00C59CBF /* exportOptions.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
