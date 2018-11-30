@@ -1,0 +1,6 @@
+framework module Pods_CICDDemo_iOS {
+  umbrella header "Pods-CICDDemo_iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
